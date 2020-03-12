@@ -1,8 +1,16 @@
+body{
+	padding: 0 !important;
+	margin: 0 !important;
+}
 .section-search input{
 	padding: 5px !important;
 	font-size: 18px !important;
 	width: 90% !important;
 	border: 3px #f3f3f3 !important;
+}
+
+element.style{
+	padding: 0 !important;
 }
 
 
